@@ -157,11 +157,4 @@
 
 ------
 
-#### :link: Test Tools Links
 
-- [**42TESTERS-GNL** by Mazoise](https://github.com/Mazoise/42TESTERS-GNL)
-
-- [**gnlkiller** by DontBreakAlex](https://github.com/DontBreakAlex/gnlkiller)
-
-- [**GNL_lover** by charMstr](https://github.com/charMstr/GNL_lover)
-- [**gnl-war-machine-v2019** by Alexandre94H](https://github.com/Alexandre94H/gnl-war-machine-v2019 )
